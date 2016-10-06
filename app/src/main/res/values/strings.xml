@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Flag Quiz</string>
+    <string-array name="drawbleNomes">
+        <item>flag_alemanha</item>
+        <item>flag_argentina</item>
+        <item>flag_belgica</item>
+        <item>flag_bolivia</item>
+        <item>flag_brasil</item>
+        <item>flag_canada</item>
+        <item>flag_china</item>
+        <item>flag_colombia</item>
+        <item>flag_costa_rica</item>
+        <item>flag_croacia</item>
+        <item>flag_estados_unidos</item>
+        <item>flag_franca</item>
+        <item>flag_grecia</item>
+        <item>flag_iraque</item>
+        <item>flag_irlanda</item>
+        <item>flag_italia</item>
+        <item>flag_japao</item>
+        <item>flag_mexico</item>
+        <item>flag_paraguai</item>
+        <item>flag_suriname</item>
+    </string-array>
+
+    <string-array name="flagsNomes">
+        <item>Alemanha</item>
+        <item>Argentina</item>
+        <item>Bélgica</item>
+        <item>Bolívia</item>
+        <item>Brasil</item>
+        <item>Canadá</item>
+        <item>China</item>
+        <item>Colombia</item>
+        <item>Costa Rica</item>
+        <item>Croácia</item>
+        <item>Estados Unidos</item>
+        <item>França</item>
+        <item>Grécia</item>
+        <item>Iraque</item>
+        <item>Irlanda</item>
+        <item>Itália</item>
+        <item>Japão</item>
+        <item>México</item>
+        <item>Paraguai</item>
+        <item>Suriname</item>
+    </string-array>
+</resources>
